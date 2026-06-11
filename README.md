@@ -18,9 +18,11 @@ featuring a comprehensive physics constants library.
 ## Tech Stack
 - C# .NET 10
 - Windows Forms (WinForms)
-- Architecture: programmatic UI (no Designer dependency)
 
 ## How to Run
+
+### Run directly via .exe
+Download from the [Releases](../../releases) page
 
 ### From source code
 ```bash
@@ -28,9 +30,6 @@ git clone https://github.com/username/physics-scientific-calculator
 cd physics-scientific-calculator
 dotnet run
 ```
-
-### Run directly via .exe
-Download from the [Releases](../../releases) page
 
 ## Build
 ```bash
