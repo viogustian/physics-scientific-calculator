@@ -1,4 +1,4 @@
-# ⚛ Physics Scientific Calculator
+# Physics Scientific Calculator
 
 A scientific calculator application built with Windows Forms (.NET 10),
 featuring a comprehensive physics constants library.
